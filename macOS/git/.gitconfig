@@ -1,0 +1,9 @@
+[user]
+	name = 
+	email = 
+[alias]
+  logline = log --graph --pretty=format:'%C(bold cyan)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  stt = status
+  branches = branch --all
+[credential]
+	helper = osxkeychain
